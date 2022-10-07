@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdoalrhman Rayan !
+- 👀 I’m interested in Backend development, Servers and Databases.
+- 🌱 I’m currently learning Discord.js, SQL, Data Modelling, Front-end Technologies.
+- 💞️ I’m looking to collaborate on Discord Bots, Websites as Backend dev, Online games.
+- 📫 How to reach me Discord: Nameless#8663
