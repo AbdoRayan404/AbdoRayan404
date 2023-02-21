@@ -1,4 +1,4 @@
-# 💻 Abdoalrhman M. Rayan
+# 💻 Abdulrahman M. Rayan
 I'm a Backend Developer with Deep interest in Servers, Systems and Databases. I like to build Projects from scratch and plan the Architecture then Code it and host to be ready for the users.
 
 ---
